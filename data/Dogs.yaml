@@ -1,0 +1,11 @@
+train: DataSet\Bangkaew-Shiba_Training
+val: DataSet\Bangkaew-Shiba_Training
+
+# Classes
+nc: 4
+names:
+  0: Bangkaew
+  1: Fox
+  2: Red_Panda
+  3: Shiba_Inu
+  
